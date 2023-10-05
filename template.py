@@ -25,13 +25,13 @@ list_of_files=[
     f"{project_name}/constant/training_pipeline.py",
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/main_utils.py",
+    "research/trials.ipynb",
     "templates/index.html",
     "app.py",
     "Dockerfile",
     "requirements.txt",
     "setup.py",
-    "test.txt",
-    "README.md"
+    "README.md",
 ]
 # github should not be empty so keep git file and used for cicd pipeline and tracking the updation after creating main.yaml we will replace it with it
 # data folder is for to store the image which is upload by user for testing
