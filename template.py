@@ -30,7 +30,8 @@ list_of_files=[
     "Dockerfile",
     "requirements.txt",
     "setup.py",
-    "test.txt"
+    "test.txt",
+    "README.md"
 ]
 # github should not be empty so keep git file and used for cicd pipeline and tracking the updation after creating main.yaml we will replace it with it
 # data folder is for to store the image which is upload by user for testing
